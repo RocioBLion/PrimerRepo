@@ -1,1 +1,2 @@
-print("Trying out Git & Github")
+print("deleted")
+print("second commit")
